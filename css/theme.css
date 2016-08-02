@@ -323,7 +323,7 @@ h6 {
 }
 
 .btn-primary.white:hover{
-    background: #1E6A9B;
+    /*background: #1E6A9B;*/
     border-color: #1E6A9B;
     color: #fff;
 }
@@ -421,9 +421,9 @@ h6 {
 
 
 .top-bar-wrap{
-    background:#1E6A9B;
+    background:#259AB6;
     padding: 10px 0px;
-    border-bottom: 1px solid#226ECB;
+    border-bottom: 1px solid#273480;
 }
 
 .top-socail li a i{
@@ -569,7 +569,7 @@ h6 {
     color: #eee;
     margin: 10px auto 35px;
     width: 70%;
-    font-family: "lora",serif;
+    font-family: "Oxygen",serif;
     font-style: italic;
     font-size: 16px;
     line-height: 26px;
@@ -831,12 +831,21 @@ a.project-overlay{
     cursor: crosshair!important;
 }
 
+.team {
+    font-size: 10px;
+}
+
+#section-profiles{
+    background: #F7F9FA;
+    padding-bottom: 80px;
+}
 
 /*==============Section-process===============*/
 
 #section-process{
     background: #F7F9FA;
 }
+
 .process-box h3,.process-box p{
     color: #232323;
 }
@@ -1142,8 +1151,8 @@ a.project-overlay{
     border: 0px;
 }
 
-/* ===============section client =============*/
-#section-client{
+/* ===============section job =============*/
+#section-job{
     background: url("../images/client/logos-bg.jpg") fixed 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
