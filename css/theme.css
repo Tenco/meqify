@@ -130,7 +130,7 @@ p {
     color: #666;
 }
 .dark-bg {
-    background: #323232;
+    /*background: #666;*/
     color: #fff;
 }
 
@@ -411,7 +411,7 @@ h6 {
 .parallax-content1 p{
     color: #eee;
     font-size: 14px;
-    padding-top: 30px;
+    /*padding-top: 30px;*/
 }
 
 
@@ -700,7 +700,7 @@ a.more{
 
 /* Section-Service==========================*/
 
-#section-features{
+#section-about{
     background: #F7F9FA;
     background: url("../images/bg/bg6.jpg")no-repeat fixed 50% 10%;
     -webkit-background-size: cover;
@@ -787,7 +787,7 @@ a.more{
     bottom: 0px;
 }
 .service-item:hover {
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 .service-item:hover h4:after,
@@ -1153,10 +1153,12 @@ a.project-overlay{
 
 /* ===============section job =============*/
 #section-job{
-    background: url("../images/client/logos-bg.jpg") fixed 50% 50%;
+    background: url("../images/bg/bg60.jpg") fixed 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
 }
+
+
 .client-img{
     text-align: center;
 }
