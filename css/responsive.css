@@ -6,6 +6,19 @@
 	.dropdown i{
 		display: none;
 	}
+
+    /* iOS parallax fix */
+    #home-section {
+        background-attachment: fixed;
+    }
+
+    #section-job {
+        background-attachment: fixed;
+    }
+
+    #section-about {
+        background-attachment: fixed;
+    }
 }
 
 
@@ -16,12 +29,26 @@
 		font-size: 16px;
 		line-height: 16px;
 	}
+
+    /* iOS parallax fix */
+    #home-section {
+        background-attachment: fixed;
+    }
+
+    #section-job {
+        background-attachment: fixed;
+    }
+
+    #section-about {
+        background-attachment: fixed;
+    }
 }
 
 /* Small Devices, Tablets */
 @media (min-width : 768px) and (max-width: 991px) {
 
-    .section-heading h5{
+
+.section-heading h5{
         width: 50%;
     }
 .nav > li > a {
@@ -90,6 +117,7 @@
 
 /* Extra Small Devices, Phones */ 
 @media (min-width : 480px) and (max-width:767px){
+
 	
 .navbar-default .navbar-nav > li > a {
     padding: 8px 16px;

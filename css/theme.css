@@ -381,10 +381,14 @@ h6 {
 }
 
 
+#section-top {
+    background-color: #FFF;
+}
+
 /* =============section Parrallax========================*/
 
-#section-parallax{
-    background: url("../images/bg/paralax1.jpg") fixed 50% 50%;
+#section-about{
+    background: url("../images/bg/bg6.jpg") 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -544,11 +548,16 @@ h6 {
     SLIDER SECTION
 ===============================================*/
 #home-section {
-    background: url("../images/bg/slider.jpg") fixed 50% 50%;
+    background: url("../images/bg/slider.jpg") 50% 50%;
     background-size: cover;
     position: relative;
     overflow: hidden;
 }
+
+
+
+
+
 .slider-caption {
     z-index:2;
     text-align: center;
@@ -700,7 +709,7 @@ a.more{
 
 /* Section-Service==========================*/
 
-#section-about{
+#section-features{
     background: #F7F9FA;
     background: url("../images/bg/bg6.jpg")no-repeat fixed 50% 10%;
     -webkit-background-size: cover;
@@ -1153,7 +1162,7 @@ a.project-overlay{
 
 /* ===============section job =============*/
 #section-job{
-    background: url("../images/bg/bg60.jpg") fixed 50% 50%;
+    background: url("../images/bg/bg60.jpg") 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
 }
