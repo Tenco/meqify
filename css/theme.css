@@ -104,7 +104,8 @@ a {
 }
 
     a:hover {
-        color:#F36839;
+        /*color:#F36839;*/
+        color:#259AB6;
         text-decoration: none;
         transition: all 0.25s ease 0s;
         -moz-transition: all 0.25s ease 0s;
@@ -388,7 +389,7 @@ h6 {
 /* =============section Parrallax========================*/
 
 #section-about{
-    background: url("../images/bg/bg6.jpg") 50% 50%;
+    background: url("../images/bg/bg6.png") 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -1070,6 +1071,7 @@ a.project-overlay{
     background: #fff;
     padding: 30px 10px;
     border-radius: 3px;
+    background-image: url('../images/bg/background-world-map.gif');
 }
 .contact-form-wrap p{
     width: 80%;
@@ -1251,4 +1253,9 @@ a.project-overlay{
 
 .footer-info.services{
     padding-top: 50px;
+}
+
+
+.marginbottom {
+    margin-bottom:10px!important;
 }

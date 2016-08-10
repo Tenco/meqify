@@ -19,6 +19,14 @@
     #section-about {
         background-attachment: fixed;
     }
+
+    .price-box {
+        height: 300px;
+    }
+
+    .service-item {
+    height: 380px;
+}
 }
 
 
@@ -30,6 +38,7 @@
 		line-height: 16px;
 	}
 
+    
     /* iOS parallax fix */
     #home-section {
         background-attachment: fixed;
@@ -47,6 +56,9 @@
 /* Small Devices, Tablets */
 @media (min-width : 768px) and (max-width: 991px) {
 
+.price-box {
+        height: 200px;
+    }
 
 .section-heading h5{
         width: 50%;
@@ -62,6 +74,18 @@
 	margin-right: 0px;
 	font-size: 16px;
 	line-height: 16px;
+}
+
+.team {
+    font-size: 7px;
+}
+
+.service-item {
+    height: 480px;
+}
+
+p {
+    font-size: 12px;
 }
 
 
