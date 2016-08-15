@@ -389,7 +389,7 @@ h6 {
 /* =============section Parrallax========================*/
 
 #section-about{
-    background: url("../images/bg/bg6.png") 50% 50%;
+    background: url("../images/bg/bg6_new.jpg") 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -847,8 +847,14 @@ a.project-overlay{
 }
 
 #section-profiles{
-    background: #F7F9FA;
+    /*background: #F7F9FA;*/
     padding-bottom: 80px;
+}
+
+/*==============Section-methodology===============*/
+
+#section-methodology {
+    background: #F7F9FA;
 }
 
 /*==============Section-process===============*/
@@ -1034,6 +1040,7 @@ a.project-overlay{
 }
 
 .blog-content a{
+    font-size: 11px;
     text-transform: uppercase;
     font-weight: 700;
     color: #F36839;
@@ -1042,7 +1049,7 @@ a.project-overlay{
     padding-bottom: 10px;
 }
 
-.blog-content a:after{
+/*.blog-content a:after{
     position: absolute;
     content:"";
     width: 20px;
@@ -1050,7 +1057,7 @@ a.project-overlay{
     background: #000;
     left: 0px;
     bottom: 0px;
-}
+}*/
 
 
 /*============== Section Contact =======================*/
@@ -1193,12 +1200,24 @@ a.project-overlay{
     letter-spacing: 0px;
     font-size: 20px;
     line-height:30px;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
 }
 .footer-item p{
     color: #eee;
-    margin: 30px 0px 40px;
+   /* margin: 30px 0px 40px;*/
 }
+
+.footer-item a{
+    color: #eee;
+   /* margin: 30px 0px 40px;*/
+}
+
+.footer-item a:hover{
+    color: #259AB6;
+   /* margin: 30px 0px 40px;*/
+}
+
+
 .footer-socail li a{
     font-size: 16px;
     width: 50px;
@@ -1252,7 +1271,7 @@ a.project-overlay{
 }
 
 .footer-info.services{
-    padding-top: 50px;
+    /*padding-top: 50px;*/
 }
 
 
