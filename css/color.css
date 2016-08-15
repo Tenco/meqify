@@ -1,13 +1,13 @@
 .btn-primary{
-    border:3px solid#273480;
-    background: #273480;
+    border:3px solid#259AB6;
+    background: #259AB6;
 }
 .btn-primary.feature{
     background: #09B656;
     border: 2px solid#70717f;
 }
 .btn-primary.white{
-    color: #273480;
+    color: #259AB6;
 
 }
 
@@ -19,80 +19,80 @@
 /*section heading*/
 
 .section-heading h2 span{
-    color: #273480;
+    color: #259AB6;
 }
 
 
 /*navbar ==*/
 
 .navbar-custom .navbar-brand  span{
-    color: #273480;
+    color: #259AB6;
 }
 
 .navbar-custom .nav li a:hover {
-    color: #273480;
+    color: #259AB6;
 }
 
  .navbar-custom.top-nav-collapse .nav li.active a{
-        color: #273480!important;
+        color: #259AB6!important;
     }
 
 /*about===*/
 
     a.more{
-    color: #273480;
+    color: #259AB6;
 
 
 .icon-wrap i{
     font-size: 30px;
-    color: #273480;
+    color: #259AB6;
 }
 .icon-wrap:hover{
-    background: #273480;
+    background: #259AB6;
 }
 
 /*why choos eus*/
 
 
 .why h2 span{
-    color: #273480;
+    color: #259AB6;
 }
 
 .choose-wrap-ul li .choose-item i{
-    color: #273480;
+    color: #259AB6;
 }
 
 /*feature===*/
 
 .feature-head h2 span{
-    color: #273480;
+    color: #259AB6;
 }
 
 .feature-item:hover{
-     background: #273480;
+     background: #259AB6;
 }
 
 /* client*/
 .client-box i{
-    color: #273480;
+    color: #259AB6;
    }
 
    .client-info h3{
-    color: #273480;
+    color: #259AB6;
 }
 
 
 /*pricing====*/
 
 .price-head h3{
-    color: #273480!important;
+    color: #259AB6!important;
 }
 
 .blog-content a{
-    color: #273480;
+    color: #259AB6;
     
 }
 
 .footer-socail li a:hover{
-    background:#273480;
+    background:#259AB6;
 }

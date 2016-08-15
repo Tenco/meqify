@@ -768,7 +768,8 @@ a.more{
    
 }
 .service-item img{
-    margin-bottom: 25px;
+    margin-bottom: 10px;
+    max-width: 80px;
     display: block;
 }
 
@@ -803,7 +804,7 @@ a.more{
 
 .service-item:hover h4:after,
 .service-item:hover  h4:before{
-    background: #1E6A9B;
+    background: #259AB6;
    
 }
 
@@ -1103,7 +1104,7 @@ a.project-overlay{
     width: 25px;
     height:25px;
     text-align: center;
-    background: #ddd;    
+    background: #259AB6;    
     border-radius: 3px;
 }
 
