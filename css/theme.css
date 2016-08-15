@@ -343,7 +343,7 @@ h6 {
 .section-heading p{
     font-family: 'Lora', serif;
     font-style: italic;
-    text-transform: lowercase;
+    /*text-transform: lowercase;*/
     width: 90%;
     margin: 0 auto;
 }
@@ -982,7 +982,7 @@ a.project-overlay{
 }
 .price-head h3{
     letter-spacing: 0px;
-     color: #1E6A9B;
+     color: #259AB6;
 }
 .price{
     padding: 40px 0px;
@@ -1214,7 +1214,8 @@ a.project-overlay{
 }
 
 .footer-item a:hover{
-    color: #259AB6;
+    /*color: #259AB6;*/
+    color: #FFF;
    /* margin: 30px 0px 40px;*/
 }
 
