@@ -21,7 +21,8 @@
     }
 
     .price-box {
-        height: 800px;
+        height: 400px;
+        margin-bottom: 50px;
     }
 
     .service-item {
