@@ -154,8 +154,10 @@ audio {
     border: none;
 }
 
+    
+
 ul,li{
-    list-style-type: none;
+    list-style-type: circle;
     margin: 0px;
     padding: 0px;
 }
@@ -434,6 +436,7 @@ h6 {
 .top-socail li a i{
     color: #fff;
     font-size: 14px;
+    
 }
 
 .top-socail li a{
@@ -984,6 +987,13 @@ a.project-overlay{
     letter-spacing: 0px;
      color: #259AB6;
 }
+
+.price-head li{
+    
+    font-size: 14px;
+    margin: 13px;
+    font-style: italic;
+}
 .price{
     padding: 40px 0px;
     font-size: 40px;
@@ -1218,6 +1228,10 @@ a.project-overlay{
     color: #FFF;
    /* margin: 30px 0px 40px;*/
 }
+.footer-item li{
+    
+list-style-type: none
+}
 
 
 .footer-socail li a{
@@ -1233,6 +1247,7 @@ a.project-overlay{
     -o-transition: all .4s ease 0s;
     transition: all .4s ease 0s;
     border-bottom: 3px solid#1E6A9B;
+    
 }
 
 .footer-link li{
@@ -1280,3 +1295,6 @@ a.project-overlay{
 .marginbottom {
     margin-bottom:10px!important;
 }
+
+
+

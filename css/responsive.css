@@ -21,7 +21,7 @@
     }
 
     .price-box {
-        height: 300px;
+        height: 800px;
     }
 
     .service-item {
@@ -310,4 +310,12 @@ p {
     font-size: 12px;
 }
 
-}
+  .section-services  li {
+      list-style-type: circle;
+      display: inline;
+    
+        
+        
+    }
+
+
