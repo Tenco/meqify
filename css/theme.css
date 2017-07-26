@@ -631,7 +631,7 @@ a.more{
     height: 80px;
     background: #EFF2F7;
     text-align: center;
-    padding-top: 22px;
+    padding-top: 0px;
     margin: 0 auto;
    
 }
@@ -648,7 +648,7 @@ a.more{
     
 }
 .about-icon:hover .icon-wrap{
-    background: #1E6A9B;
+    background: white;
 }
 .about-icon:hover{
    border-color: #1E6A9B;
