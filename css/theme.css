@@ -157,7 +157,7 @@ audio {
     
 
 ul,li{
-    list-style-type: circle;
+    list-style-type: disc;
     margin: 0px;
     padding: 0px;
 }
