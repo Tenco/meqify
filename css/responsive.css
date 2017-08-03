@@ -58,11 +58,16 @@
 @media (min-width : 768px) and (max-width: 991px) {
 
 .price-box {
-        height: 200px;
+        height: 550px;
+    
     }
 
 .section-heading h5{
         width: 50%;
+    }
+    .price-head li{
+    font-size: 12px;    
+        
     }
 .nav > li > a {
    padding-left: 12px;
