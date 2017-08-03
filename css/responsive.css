@@ -6,7 +6,11 @@
 	.dropdown i{
 		display: none;
 	}
-
+ .price-box {
+        height: 400px;
+        margin-bottom: 50px;
+    }
+   
     /* iOS parallax fix */
     #home-section {
         background-attachment: fixed;
@@ -20,19 +24,14 @@
         background-attachment: fixed;
     }
 
-    .price-box {
-        height: 400px;
-        margin-bottom: 50px;
-    }
-
-    .service-item {
+  .service-item {
     height: 380px;
 }
 }
 
 
 /* Medium Devices, Desktops */
-@media (min-width : 992px) {
+@media (min-width : 992px) and (max-width: 1199px) {
 	.navbar-brand i{
 		margin-right: 0px;
 		font-size: 16px;
@@ -40,7 +39,7 @@
 	}
     
      .price-box {
-        height: 500px;
+        height: 470px;
          margin-bottom: 50px;}
 
     
@@ -62,7 +61,7 @@
 @media (min-width : 768px) and (max-width: 991px) {
 
 .price-box {
-        height: 550px;
+        height: 510px;
     
     }
 
